@@ -15,4 +15,4 @@ localhost:port/Departments
 за да се извършат операциите delete, create, edit
 localhost:port/Departments/Create
 
-съдържанието на bin, obj i packages папките е изтрито, според инструкциите в moodle
+съдържанието на bin, obj i packages папките е изтрито

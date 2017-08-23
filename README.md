@@ -2,17 +2,19 @@
 creating website with ASP.NET
 VS framework, db migrations, CRUD operations
 
-# login чрез username
-за да се визуализират на ASP.NEt страницата таблиците, се достъпват от:
+# login via username
+to view the tables on ASP.net page
 
-за да се достъпи Employees таблицата
+to acess Employees table
 localhost:port/Employees
-за да се създаде нов служител, изтрие, или edit
+
+to create, delete or edit new Employee
 localhost:port/Employees/Create
 
-за да се достъпи Departments таблицата 
+to acess Department tables
 localhost:port/Departments
-за да се извършат операциите delete, create, edit
+
+to create, delete, edit Departments
 localhost:port/Departments/Create
 
-съдържанието на bin, obj i packages папките е изтрито
+the content of bin, obj and packages folders is deleted 
